@@ -1,3 +1,3 @@
-This is changed by Salahdin
+This is changed by Salahadin
 
 This second line is by Seid
